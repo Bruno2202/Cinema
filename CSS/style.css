@@ -1,0 +1,80 @@
+body {
+    margin: 0px;
+    background-color: #212121;
+}
+
+.main {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+
+}
+
+.left {
+    background-color: #212121;
+    width: 75vw;
+    height: 100vh;
+    display: flex;
+}
+
+.intLeft {
+    background-color: #040404;
+    width: 100%;
+    margin: 16px;
+}
+
+.assentos {
+    display: flex;
+    width: 100%;
+    height: 95%;
+}
+
+.linha {
+    width: 20px;
+    height: auto;
+    background-color: #040404;
+    display: flex;
+    justify-content: center;
+    line-height: 50px;
+    text-align: center;
+}
+
+l {
+    margin-left: 130px;
+    display: flex;
+    align-items: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+
+r {
+    margin-right: 130px;
+    display: flex;
+    align-items: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+
+.circulo {
+    margin: 5px;
+    width: 40px;
+    height: 40px;
+    background-color: #00158e;
+    border-radius: 50%;
+}
+
+.tela {
+    width: 100%;
+    height: 5%;
+    background-color: #bebebe;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.right {
+    background-color: #151515;
+    width: 25vw;
+    height: 100vh;
+}

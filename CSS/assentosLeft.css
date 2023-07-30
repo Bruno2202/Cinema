@@ -1,0 +1,92 @@
+.assentosLeft {
+    display: flex;
+    flex-direction: column;
+    margin-left: 20px;
+    margin-bottom: 30px;
+    justify-content: center;
+    width: 50%;
+}
+
+.AL {
+    width: 100%;
+    display: flex;
+    height: auto;
+    justify-content: center;
+}
+
+.BL {
+    width: 100%;
+    display: flex;
+    height: auto;
+    justify-content: center;
+}
+
+.CL {
+    width: 100%;
+    display: flex;
+    height: auto;
+    justify-content: center;
+}
+
+.DL {
+    width: 100%;
+    display: flex;
+    height: auto;
+    justify-content: center;
+}
+
+.EL {
+    width: 100%;
+    display: flex;
+    height: auto;
+    justify-content: center;
+}
+
+.FL {
+    width: 100%;
+    display: flex;
+    height: auto;
+    justify-content: center;
+}
+
+.GL {
+    width: 100%;
+    display: flex;
+    height: auto;
+    justify-content: center;
+}
+
+.HL {
+    width: 100%;
+    display: flex;
+    height: auto;
+    justify-content: center;
+}
+
+.IL {
+    width: 100%;
+    display: flex;
+    height: auto;
+    justify-content: center;
+}
+
+.JL {
+    width: 100%;
+    display: flex;
+    height: auto;
+    justify-content: center;
+}
+
+.KL {
+    width: 100%;
+    display: flex;
+    height: auto;
+    justify-content: center;
+}
+
+.LL {
+    width: 100%;
+    display: flex;
+    height: auto;
+    justify-content: center;
+}
