@@ -78,3 +78,54 @@ r {
     width: 25vw;
     height: 100vh;
 }
+
+.img {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+
+h1 {
+    margin: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+
+.cartaz {
+    margin: 10px;
+    width: 60%;
+}
+
+.funcoes {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+button {
+    margin: 10px;
+    background-color: white;
+    outline: none;
+}
+
+h3 {
+    margin-left: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+
+.infos {
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    display: flex;
+    margin-left: 20px;
+}
+
+.infos2 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    display: flex;
+    margin-left: 20px;
+}

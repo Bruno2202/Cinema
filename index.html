@@ -707,10 +707,25 @@
             </div>
         </div>
         <div class="right">
+            <div class="img">
+                <h1>Barbie - Sessão 1</h1>
+                <img src="Barbie.jpeg" class="cartaz">
+            </div>
+            <div class="funcoes">
+                <button class="reservar" onclick="reservar()">Reservar assento</button>
+                <button class="cancelar" onclick="cancelar()">Cancelar Reserva</button>
+            </div>
 
+            <h3>Assento(s) reservados:</h3>
+            <div class="infos" id="infos"></div>
+
+            <h3>Assento(s) disponíveis:</h3>
+            <div class="infos2" id="infos2"></div>
         </div>
     </div>
 
     <script src="SCRIPT/script.js"></script>
+    <script src="SCRIPT/Word_for_number.js"></script>
+    <script src="SCRIPT/calcAssentos.js"></script>
 </body>
 </html>
